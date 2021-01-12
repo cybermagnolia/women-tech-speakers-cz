@@ -1,2 +1,5 @@
-# women-tech-speakers-cz
-A list of women speakers available for talks at tech conferences &amp; meetups in the Czech Republic.
+# Women Tech Speakers in the Czech Republic
+
+This is the list of women speakers open to talking at tech conferences & meetups in the Czech Republic.
+
+
